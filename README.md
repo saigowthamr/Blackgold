@@ -2,7 +2,15 @@
 ## This a "blackgold" theme  for vscode
 
 ![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold.gif)
-![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold.png)
+
+----------------------------------------------------------------------------------
+B----------G
+l--------o
+a------l
+ck----d
+----------------------------------------------------------------------------------
+
+![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold3.png)
 
 # Installation
 
