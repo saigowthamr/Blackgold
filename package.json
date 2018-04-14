@@ -1,26 +1,35 @@
 {
-  "name": "blackgold",
-  "displayName": "Black gold theme",
-  "description": "Black gold theme by gowtham ",
-  "version": "0.0.1",
-  "publisher": "saigowtham",
-  "icon": "images/logo.png",
-  "engines": {
-    "vscode": "^1.22.0"
-  },
-  "categories": ["Themes"],
-  "keywords": ["vscode", "blackgold"],
-  "galleryBanner": {
-    "color": "#193549",
-    "theme": "dark"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "blackgold",
-        "uiTheme": "vs-dark",
-        "path": "./themes/godmonday-color-theme.json"
-      }
-    ]
-  }
+    "name": "blackgold",
+    "displayName": "⛩Black gold theme",
+    "description": "Black gold theme by gowtham 🐥 🐥   ",
+    "version": "0.3.0",
+    "publisher": "saigowtham",
+    "icon": "images/logo.png",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saigowthamr/Blackgold"
+    },
+    "keywords": [
+        "vscode",
+        "blackgold"
+    ],
+    "galleryBanner": {
+        "color": "#193549",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "blackgold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/godmonday-color-theme.json"
+            }
+        ]
+    }
 }
