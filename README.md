@@ -1,7 +1,8 @@
-# Black gold theme by Gowtham
-## This a "blackgold" theme  for vscode
+# Professional Black gold theme by Gowtham
 
-![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold.gif)
+## Royal  "blackgold" theme  for vscode
+
+![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold3.png)
 
 ----------------------------------------------------------------------------------
 B----------G
@@ -10,7 +11,7 @@ a------l
 ck----d
 ----------------------------------------------------------------------------------
 
-![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold3.png)
+![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/js.png)
 
 # Installation
 
