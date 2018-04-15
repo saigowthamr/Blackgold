@@ -2,9 +2,9 @@
     "name": "black-gold",
     "displayName": "Black gold theme 🌈",
     "description": "A Black gold theme With Professional Coding experience 🐥    ",
-    "version": "0.11.0",
+    "version": "0.15.0",
     "publisher": "saigowthamr",
-    "icon": "images/logo.png",
+    "icon": "images/blacklogo.png",
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -18,7 +18,7 @@
     "keywords": [
         "atom",
         "dark",
-        "gold",
+        "blackgold",
         "one",
         "material"
     ],
