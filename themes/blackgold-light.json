@@ -1,6 +1,5 @@
 {
   "$schema": "vscode://schemas/color-theme",
-
   "tokenColors": [
     {
       "name": "Comment",
@@ -519,12 +518,12 @@
   ],
 
   "colors": {
-    "editor.background": "#00000050",
+    "editor.background": "#00394b50",
     "editorCursor.foreground": "#ffff00",
     "editor.foreground": "#fffffff1",
     "editorWhitespace.foreground": "#3B3A32",
-    "editor.lineHighlightBackground": "#3E3D32",
-    "editor.selectionBackground": "#3d3d3d",
+    "editor.lineHighlightBackground": "#caa70b3d",
+    "editor.selectionBackground": "#554949fb",
     "editorLineNumber.foreground": "#919191",
     "editorLineNumber.activeForeground": "#fff",
     "editor.inactiveSelectionBackground": "#0c2427",
@@ -549,7 +548,7 @@
     "activityBar.foreground": "#f3e303",
     "activityBarBadge.background": "#d11b1bf1",
     //sidebar
-    "sideBar.background": "#000000",
+    "sideBar.background": "#10021d23",
     "sideBarTitle.foreground": "#f3e303",
     //statusbar
     "statusBar.background": "#070706",

@@ -1,38 +1,36 @@
 {
-    "name": "black-gold",
-    "displayName": "Black gold theme 🌈",
-    "description": "A Black gold theme With Professional Coding experience 🐥    ",
-    "version": "0.15.0",
-    "publisher": "saigowthamr",
-    "icon": "images/blacklogo.png",
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/saigowthamr/Blackgold"
-    },
-    "keywords": [
-        "atom",
-        "dark",
-        "blackgold",
-        "one",
-        "material"
-    ],
-    "galleryBanner": {
-        "color": "#193549",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "blackgold",
-                "uiTheme": "vs-dark",
-                "path": "./themes/godmonday-color-theme.json"
-            }
-        ]
-    }
+  "name": "black-gold",
+  "displayName": "Black gold theme 🌈",
+  "description":
+    "A Black gold theme With  two different Shades Light and Night for both morning and Night usage With Different User Experience🐥 ",
+  "version": "0.15.0",
+  "publisher": "saigowthamr",
+  "icon": "images/blacklogo.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saigowthamr/Blackgold"
+  },
+  "keywords": ["atom", "dark", "blackgold", "one", "material"],
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackgold Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/godmonday-color-theme.json"
+      },
+      {
+        "label": "BlackGold Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackgold-light.json"
+      }
+    ]
+  }
 }

@@ -1,22 +1,26 @@
-# Professional Black gold theme by Gowtham
+# Professional Black gold theme for Vscode by Gowtham
 
-## Royal  "blackgold" theme  for vscode
+## Royal  "Blackgold"  Night and Light themes  for Both Morning and Night usage .
 
+## Black Gold Night
 ![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold3.png)
 
 ----------------------------------------------------------------------------------
-B----------G
-l--------o
-a------l
-ck----d
+----         ----
+---BLACK GOLD----
+---          ----
 ----------------------------------------------------------------------------------
+
+## Black Gold Light
+
+![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold-light.png)
+
 
 ## Word Highlight border, Active line colors
 
 ![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/js.png)
 
-## Css Comments
-![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/css.png)
+
 
 
 # Installation
@@ -62,3 +66,8 @@ ck----d
 
 
 # Happy coding
+
+
+
+If you do like this theme,Give a [Github Star](https://github.com/saigowthamr/Blackgold) ✋ and Nice Rating It helps to other users .Thanks so much!
+
