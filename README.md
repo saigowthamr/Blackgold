@@ -11,7 +11,13 @@ a------l
 ck----d
 ----------------------------------------------------------------------------------
 
+## Word Highlight border, Active line colors
+
 ![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/js.png)
+
+## Css Comments
+![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/css.png)
+
 
 # Installation
 

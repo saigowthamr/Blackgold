@@ -2,7 +2,7 @@
     "name": "black-gold",
     "displayName": "Black gold theme 🌈",
     "description": "A Black gold theme With Professional Coding experience 🐥    ",
-    "version": "0.8.0",
+    "version": "0.11.0",
     "publisher": "saigowthamr",
     "icon": "images/logo.png",
     "engines": {
@@ -16,9 +16,10 @@
         "url": "https://github.com/saigowthamr/Blackgold"
     },
     "keywords": [
-        "vscode",
-        "blackgold",
-        "cobalt",
+        "atom",
+        "dark",
+        "gold",
+        "one",
         "material"
     ],
     "galleryBanner": {
