@@ -1,8 +1,8 @@
 {
     "name": "black-gold",
     "displayName": "Black gold theme 🌈",
-    "description": "A Black gold theme With  two different Shades Light and Night for both morning and Night usage With Different User Experience🐥 ",
-    "version": "0.16.0",
+    "description": "A Black gold theme With  Different User Experience🐥 ",
+    "version": "0.20.0",
     "publisher": "saigowthamr",
     "icon": "images/blacklogo.png",
     "engines": {
@@ -30,14 +30,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Blackgold Night",
+                "label": "Blackgold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/godmonday-color-theme.json"
-            },
-            {
-                "label": "BlackGold Light",
-                "uiTheme": "vs-dark",
-                "path": "./themes/blackgold-light.json"
             }
         ]
     }
