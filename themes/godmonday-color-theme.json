@@ -554,29 +554,7 @@
     //statusbar
     "statusBar.background": "#070706",
     "statusBar.border": "#ffee002f",
-    "statusBar.foreground": "#ffee00bb",
-    // gutter
-    "editorGutter.background": "#12273866",
-    "editorGutter.addedBackground": "#3C9F4A",
-    "editorGutter.deletedBackground": "#A22929",
-    "editorGutter.modifiedBackground": "#26506D",
-    // dropdown
-    "dropdown.background": "#2a2b2c",
-    "dropdown.border": "#15232d",
-    "dropdown.foreground": "#fbff08c9",
-    // diff
-    "diffEditor.insertedTextBackground": "#3ad90033",
-    "diffEditor.insertedTextBorder": "#3ad90055",
-    "diffEditor.removedTextBackground": "#ee3a4333",
-    "diffEditor.removedTextBorder": "#ee3a4355",
-    // merge
-    "merge.border": "#ffffff00",
-    "merge.commonContentBackground": "#c97d0c",
-    "merge.commonHeaderBackground": "#c97d0c",
-    "merge.currentContentBackground": "#2F7366",
-    "merge.currentHeaderBackground": "#2F7366",
-    "merge.incomingContentBackground": "#185294",
-    "merge.incomingHeaderBackground": "#185294"
+    "statusBar.foreground": "#ffee00bb"
   },
   "name": "Saigowtham"
 }
