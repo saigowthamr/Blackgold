@@ -28,7 +28,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `blackgold`
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
+4. Click **Reload** to reload  your editor
 5. Code > Preferences > Color Theme > **blackgold**
 6. Optional: Use the recommended settings below for best experience
 
@@ -64,10 +64,12 @@
 }
 ```
 
+## Author blogs
 
-# Happy coding
+- [Reactgo.com](https://reactgo.com)
 
+- [Code Examples](https://codeexamples.dev)
 
+---
 
 If you do like this theme,Give a [Github Star](https://github.com/saigowthamr/Blackgold) ✋ and Nice Rating It helps to other users .Thanks so much!
-

@@ -6,7 +6,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#a8a8a8"
+        "foreground": "#756f25"
       }
     },
     {
@@ -20,7 +20,7 @@
       "name": "Entity",
       "scope": "entity",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#ffc800ec"
       }
     },
     {
@@ -34,14 +34,14 @@
       "name": "Keyword",
       "scope": "keyword, storage.type.class.js",
       "settings": {
-        "foreground": "#ff9d00"
+        "foreground": "#ff9d00e1"
       }
     },
     {
       "name": "Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#9effff"
+        "foreground": "#9effffe8"
       }
     },
     {
@@ -55,105 +55,105 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e1efffee"
       }
     },
     {
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#ffee80e8"
       }
     },
     {
       "name": "Punctuation Template Expression",
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#ffee80dc"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#ffc800ce"
       }
     },
     {
       "name": "Storage Type Arrow Function",
       "scope": "storage.type.function.arrow",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#ffc800ea"
       }
     },
     {
       "name": "String",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#92e7d5"
+        "foreground": "#92e7d5e8"
       }
     },
     {
       "name": "String Template",
       "scope": ["string.template", "punctuation.definition.string.template"],
       "settings": {
-        "foreground": "#3ad900"
+        "foreground": "#3ad900f1"
       }
     },
     {
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#80ffbb"
+        "foreground": "#80ffbbef"
       }
     },
     {
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#ff9d00"
+        "foreground": "#ff9d00ea"
       }
     },
     {
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e1efffe8"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e1effff1"
       }
     },
     {
       "name": "[CSS] - Entity",
       "scope": ["source.css entity", "source.stylus entity"],
       "settings": {
-        "foreground": "#3ad900"
+        "foreground": "#3ad900e3"
       }
     },
     {
       "name": "[CSS] - ID Selector",
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#FFB454"
+        "foreground": "#ffb554e7"
       }
     },
     {
       "name": "[CSS] - Element Selector",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#9EFFFF"
+        "foreground": "#9effffe7"
       }
     },
     {
       "name": "[CSS] - Support",
       "scope": ["source.css support", "source.stylus support"],
       "settings": {
-        "foreground": "#a5ff90"
+        "foreground": "#a4ff90e3"
       }
     },
     {
@@ -165,7 +165,7 @@
         "source.stylus support.constant"
       ],
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#ffee80f1"
       }
     },
     {
@@ -177,28 +177,28 @@
         "source.stylus punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#ffee80e3"
       }
     },
     {
       "name": "[CSS] - Variable",
       "scope": ["source.css variable", "source.stylus variable"],
       "settings": {
-        "foreground": "#9effff"
+        "foreground": "#9effffea"
       }
     },
     {
       "name": "[HTML] - Entity Name",
       "scope": "text.html.basic entity.name",
       "settings": {
-        "foreground": "#9effff"
+        "foreground": "#9effffe1"
       }
     },
     {
       "name": "[HTML] - ID value",
       "scope": "meta.toc-list.id.html",
       "settings": {
-        "foreground": "#A5FF90"
+        "foreground": "#a4ff90e3"
       }
     },
     {
@@ -206,14 +206,14 @@
       "scope": "text.html.basic entity.other",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffc600"
+        "foreground": "#ffc800d8"
       }
     },
     {
       "name": "[HTML] - Script Tag",
       "scope": "meta.tag.metadata.script.html entity.name.tag.html",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#ffc800f5"
       }
     },
     {
@@ -222,35 +222,35 @@
       "scope":
         "punctuation.definition.string.begin, punctuation.definition.string.end",
       "settings": {
-        "foreground": "#92fc79"
+        "foreground": "#91fc79f1"
       }
     },
     {
       "name": "[INI] - Entity",
       "scope": "source.ini entity",
       "settings": {
-        "foreground": "#e1efff"
+        "foreground": "#e1efffe5"
       }
     },
     {
       "name": "[INI] - Keyword",
       "scope": "source.ini keyword",
       "settings": {
-        "foreground": "#ffc600"
+        "foreground": "#ffc800e5"
       }
     },
     {
       "name": "[INI] - Punctuation Definition",
       "scope": "source.ini punctuation.definition",
       "settings": {
-        "foreground": "#ffee80"
+        "foreground": "#ffee80ec"
       }
     },
     {
       "name": "[INI] - Punctuation Separator",
       "scope": "source.ini punctuation.separator",
       "settings": {
-        "foreground": "#ff9d00"
+        "foreground": "#ff9d00ef"
       }
     },
     {
@@ -499,7 +499,7 @@
       "name": "[C#] - Storage modifiers",
       "scope": "storage.modifier.cs",
       "settings": {
-        "foreground": "#80ffbb"
+        "foreground": "#80ffbbe7"
       }
     },
     {
@@ -519,16 +519,16 @@
   ],
 
   "colors": {
-    "editor.background": "#00000050",
+    "editor.background": "#130b0b54",
     "editorCursor.foreground": "#ffff00",
-    "editor.foreground": "#fffffff1",
+    "editor.foreground": "#ffffffec",
     "editorWhitespace.foreground": "#3B3A32",
     "editor.lineHighlightBackground": "#3E3D32",
-    "editor.selectionBackground": "#3d3d3d",
+    "editor.selectionBackground": "#4d4d48",
     "editorLineNumber.foreground": "#919191",
     "editorLineNumber.activeForeground": "#fff",
     "editor.inactiveSelectionBackground": "#0c2427",
-    "editor.selectionHighlightBorder": "#ffffff",
+    "editor.selectionHighlightBorder": "#5a5a5aab",
     "editor.findMatchBackground": "#ff1010",
     "editorBracketMatch.background": "#777777",
     "editorLink.activeForeground": "#ff0000",
