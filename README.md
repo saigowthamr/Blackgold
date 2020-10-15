@@ -15,15 +15,12 @@
 
 ![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/css.png)
 
-
 ## Word Highlight border, Active line colors
 
 ![Preview2](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/js.png)
 
 
-
-
-# Installation
+## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `blackgold`
@@ -64,11 +61,13 @@
 }
 ```
 
-## Author blogs
+## Installation
 
-- [Reactgo.com](https://reactgo.com)
+Black gold theme can be installed through the package/extension/plugin manager by searching for "black gold".
 
-- [Code Examples](https://codeexamples.dev)
+## Author
+
+- [Sai gowtham](https://reactgo.com)
 
 ---
 
